@@ -1,0 +1,1 @@
+Our project's topic was the famous NP-hard problem Battleships and how it can be optimized using quantum algorithms. To read about our findings take a look at Quantum_engineering_project.pdf. If you'd like to see our code instead open the jupyter notebook Battleship - Final Solution.ipynb.
